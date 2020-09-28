@@ -1,6 +1,6 @@
-# NgrxBasic
+# Ngrx Basic
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3 and use [NGRX](https://ngrx.io/docs)
 
 ## Development server
 
